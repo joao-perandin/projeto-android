@@ -57,7 +57,7 @@ header p {
     margin-bottom: 20px;
 }
 nav {
-    background-color: white;
+    background-color: none;
     padding: 10px;
 }
 nav > a {
